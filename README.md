@@ -17,7 +17,7 @@
 | #1 | Alta | Como proprietário rural, quero me cadastrar no aplicativo para acessar meus imóveis do CAR. | 8 | 1 | RF1 |
 | #2 | Alta | Como usuário, quero conseguir entrar no aplicativo sem fazer log-in. | 5 | 1 | RF2 |
 | #3 | Alta | Como proprietário rural, quero ver a lista de propriedades associadas ao meu CPF para escolher qual gerenciar. | 5 | 1 | RF3 |
-| #4 | Alta | Como proprietário rural, quero visualizar cada propriedade no mapa para entender sua localização. |  5 | 1 | RF4 |
+| #4 | Alta | Como proprietário rural, quero visualizar minhas propriedades no mapa para entender sua localização. |  5 | 1 | RF4 |
 | #5 | Alta | Como proprietário rural, quero atribuir um Plus Code ao ponto de acesso principal da propriedade para criar um endereço digital. |  8 | 1 | RF5 |
 | #6 | Alta | Como proprietário rural, quero editar/atualizar o Plus Code da propriedade quando o ponto de acesso mudar. |  3 | 1 | RF7 |
 | #7 | Alta | Como proprietário rural, quero receber um certificado digital toda vez que alterar/criar um Plus Code de uma propriedade. |  3 | 1 | RF6 |
