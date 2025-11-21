@@ -4,3 +4,6 @@
 [submodule "api5-frontend"]
 	path = api5-frontend
 	url = git@github.com:Phoenix-Team-Fatec/api5-frontend.git
+[submodule "geomaps_admin_portal"]
+	path = geomaps_admin_portal
+	url = git@github.com:Phoenix-Team-Fatec/geomaps_admin_portal.git
