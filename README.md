@@ -22,11 +22,11 @@
 | #6 | Alta | Como proprietário rural, quero editar/atualizar o Plus Code da propriedade quando o ponto de acesso mudar. |  3 | 1 | RF7 |
 | #7 | Alta | Como proprietário rural, quero receber um certificado digital toda vez que alterar/criar um Plus Code de uma propriedade. |  3 | 1 | RF6 |
 | #8 | Alta | Como usuário, quero registrar condições de vias (tipo, severidade) georeferenciadas para informar a comunidade. | 8 | 2 | RF8 |
-| #9 | Alta | Como usuário, quero visualizar no mapa as condições das vias reportadas para planejar deslocamentos. | 5 | 2 | RF12 |
-| #10 | Baixa | Como usuário, quero ver o histórico de alterações do Plus Code/endereçamento da minha propriedade para controle. |  3 | 2 | RF7 |
-| #12 | Alta | Como usuário, quero traçar rotas para outras propriedades. | 13 | 2 | RF14 |
-| #13 | Alta | Como usuário, quero traçar rotas de forma fácil para a minha propriedade. | 13 | 2 | RF14 |
-| #14 | Média | Como usuário, quero receber notificações push quando houver novos alertas ou mudanças relevantes nas vias que sigo. | 5 | 2 | RF12 |
+| #9 | Alta | Como usuário, quero visualizar no mapa as condições das vias reportadas para planejar deslocamentos. | 8 | 2 | RF12 |
+| #10 | Baixa | Como usuário, quero ver o histórico de alterações do Plus Code/endereçamento da minha propriedade para controle. |  2 | 2 | RF7 |
+| #12 | Alta | Como usuário, quero traçar rotas para outras propriedades. | 8 | 2 | RF14 |
+| #13 | Alta | Como usuário, quero traçar rotas de forma fácil para a minha propriedade. | 5 | 2 | RF14 |
+| #14 | Média | Como usuário, quero receber notificações push quando houver novos alertas ou mudanças relevantes nas vias que sigo. | 8 | 2 | RF12 |
 | #15 | Média | Como usuário, quero sinalizar trechos intransitáveis e obter rota alternativa automaticamente. | 8 | 3 | RF15 |
 | #16 | Alta | Como administrador, gostaria de ter um portal para observar logs e gerenciar usuários. | 5 | 3 |  |
 | #17 | Média | Como administrador, quero revisar/recusar relatos de via para evitar abusos e informações falsas. | 8 | 3 | RF10 |
